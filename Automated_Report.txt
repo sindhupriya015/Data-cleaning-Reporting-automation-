@@ -1,0 +1,40 @@
+
+DATA CLEANING AND REPORTING AUTOMATION
+======================================
+
+PROJECT SUMMARY
+---------------
+Original rows: 102
+Cleaned rows: 100
+Duplicate rows removed: 2
+Missing values remaining: 0
+
+SALES SUMMARY
+-------------
+Total orders (rows): 100
+Total sales: 265160.00
+Total quantity sold: 295
+Average sales per row: 2651.60
+
+TOP PERFORMING CATEGORY
+-----------------------
+Grocery
+
+TOP PERFORMING CITY
+-------------------
+Chennai
+
+FILES GENERATED
+---------------
+raw_sales_data.csv
+cleaned_sales_data.csv
+Automated_Sales_Report.xlsx
+charts/sales_by_category.png
+charts/sales_by_city.png
+charts/monthly_sales_trend.png
+
+CONCLUSION
+----------
+The workflow cleaned the sales dataset, removed duplicate rows,
+handled missing values, standardized text fields, and generated
+automated summary reports and charts.
